@@ -1,0 +1,69 @@
+body{
+	background-image: url("پس زمینه-4.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.main1 {
+	width: auto;
+	height: 300px;
+	text-align: center;
+	margin-right: 75px;
+	position: relative;
+}
+
+.dayere1 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	text-align: center;
+	top: 1150px;
+	right: -25px;
+	z-index: 1;
+}
+
+.dayere2 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	top: 1150px;
+	right: 267px;
+	z-index: 1;
+}
+
+.dayere3 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	text-align: center;
+	top: 1150px;
+	right: 565px;
+	z-index: 1;
+}
+.main2 {
+	width: auto;
+	height: 300px;
+	text-align: center;
+	margin-right: 180px;
+	position: relative;
+}
+
+.dayere4 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	text-align: center;
+	top: 1150px;
+	right: 24px;
+	z-index: 1;
+}
+
+.dayere5 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	text-align: center;
+	top: 1150px;
+	right:315px;
+	z-index: 1;
+}
+
